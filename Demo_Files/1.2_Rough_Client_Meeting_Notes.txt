@@ -1,0 +1,11 @@
+ROUGH NOTES - call w/ Meridian Health Insurance (fictional) - 21 Oct
+attendees: Ritu Iyer (CPO, Meridian), Karan (L&D lead Meridian), me, Ankit (delivery)
+
+- they're unhappy batch 2 of "AI for Managers" slipped 2 wks - our trainer fell sick + LMS access came late from THEIR IT (karan admitted this)
+- ritu wants new date commitment in writing. we said 10 Nov, need to confirm trainer avail - Ankit to check by Fri
+- CSAT batch 1 = 4.4/5, they liked case studies, said hands-on time too short
+- they want to add 3rd batch for Pune team ~35 ppl, Jan. asked for quote
+- pricing: they hinted budget tight, asked if we can hold same per-learner rate as batch 1 (INR 18,500)
+- data concern: they asked if learners can upload real policy docs into AI tool during training -> we said NO, sample docs only, will confirm in writing
+- next steps: send recap email today, revised schedule by fri, quote for batch 3 by next wed
+- tone: ritu a bit frustrated but relationship ok. don't over-apologise, own our part (trainer) & be clear about LMS dependency w/o blaming
